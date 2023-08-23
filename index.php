@@ -1,3 +1,3 @@
 <?php
-    echo "Hello Azure!";
+    echo "Hello Azure! ver.2.0";
 ?>
